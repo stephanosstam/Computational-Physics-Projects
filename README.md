@@ -1,2 +1,2 @@
-# Computational-Physics-Projects-in-MATLAB
+# Computational-Physics-Projects
 Το συγκεκριμένο repository φιλοξενεί projects και κώδικες που έχω γράψει για την επίλυση υπολογιστικών προβλημάτων στα μαθηματικά, την μηχανική και την θεωρητική φυσική στο περιβάλλον του MATLAB.
